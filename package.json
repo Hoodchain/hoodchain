@@ -1,0 +1,10 @@
+{
+  "name": "hoodchain",
+  "version": "0.0.1",
+  "description": "Blockchain for the hood!!!",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.5"
+  }
+}
